@@ -1,3 +1,3 @@
 # GitTest
 
-#first project, testing git/github features
+first project, testing git/github features
